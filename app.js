@@ -1,4 +1,5 @@
 // // Q1------------------
+document.write("Assignment: 1")
 document.write("Result:")
 document.write("<br>")
 a = 10
